@@ -1,0 +1,4 @@
+exports.writeNameAndAge = (name, age) =>
+{
+    
+}

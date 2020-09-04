@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "react-test-renderer": "^16.13.1"
+  }
+}
+npm install

@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest --watchA"
+  },
+  "devDependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}

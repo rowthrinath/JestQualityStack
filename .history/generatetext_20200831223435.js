@@ -1,0 +1,4 @@
+function writeNameAndAge(name, age)
+{
+    
+}

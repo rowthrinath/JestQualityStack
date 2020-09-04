@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "dependencies": {
+    "jest": "^26.4.2",
+    "jest-puppeteer": "^4.4.0",
+    "preset": "jest-puppeteer"
+  }
+}
